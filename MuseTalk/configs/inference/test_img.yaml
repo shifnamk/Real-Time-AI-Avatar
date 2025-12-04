@@ -1,0 +1,4 @@
+task_0:
+  video_path: "../test/avatar.jpg"
+  audio_path: "../test/arabic.wav"
+

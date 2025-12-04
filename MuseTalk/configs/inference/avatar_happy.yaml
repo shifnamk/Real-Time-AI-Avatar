@@ -1,0 +1,5 @@
+input:
+  video_path: /mnt/c/shifna/Avatar_LiveTalking/data/customvideo/happy_normal_01/image
+  audio_path: /mnt/c/shifna/Avatar_LiveTalking/test/arabiv4565.wav
+bbox_shift: 0
+save_coord: false

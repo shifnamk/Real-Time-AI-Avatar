@@ -1,0 +1,6 @@
+humming_test:
+  video_path: "../reference/id01.jpg"
+  audio_path: "../perfect_closed_dc.wav"
+  result_name: "perfect_closed_dc_test"
+  bbox_shift: 5
+

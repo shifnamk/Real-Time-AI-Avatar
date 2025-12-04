@@ -1,0 +1,5 @@
+task_0:
+ video_path: "../test/test.mp4"
+ audio_path: "../test/arabiv4565.wav"
+ bbox_shift: 5
+
