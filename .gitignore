@@ -101,11 +101,14 @@ weights/
 # Audio/Video files (typically large)
 *.wav
 *.mp3
-*.mp4
+# *.mp4  # Commented out to allow Avatar.mp4 demo video (managed by Git LFS)
 *.avi
-*.mov
+# *.mov  # Commented out to allow future demo videos (managed by Git LFS)
 *.mkv
 *.aac
+
+# Allow specific demo videos (managed by Git LFS)
+!Avatar.mp4
 
 # Temporary files
 temp*/
