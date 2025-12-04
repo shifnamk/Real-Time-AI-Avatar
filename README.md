@@ -2,6 +2,21 @@
 
 Real-time AI avatar system with lip-sync powered by MuseTalk, integrated with OpenAI Realtime API for natural conversations.
 
+## 🎬 Live Demo
+
+> **🚀 See it in action! Real-time lip-sync with OpenAI voice agent**
+
+https://github.com/shifnamk/Real-Time-AI-Avatar/blob/main/Avatar.mp4
+
+**Key Features Demonstrated:**
+- ✨ Real-time lip synchronization with MuseTalk
+- 🎤 Voice interaction powered by OpenAI Realtime API  
+- ⚡ Instant response and interruption handling
+- 🎯 Natural facial expressions and movements
+- 🔊 High-quality 48kHz audio output
+
+---
+
 ## 🚀 Features
 
 - **Real-time Lip Sync**: MuseTalk-powered lip synchronization at 50 FPS
