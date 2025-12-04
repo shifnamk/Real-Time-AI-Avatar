@@ -6,13 +6,21 @@ Real-time AI avatar system with lip-sync powered by MuseTalk, integrated with Op
 
 > **🚀 See it in action! Real-time lip-sync with OpenAI voice agent**
 
-### 📹 Avatar Demo Video
+### 🎥 Avatar Demo Video
 
-**[🎬 CLICK HERE TO WATCH THE DEMO](https://github.com/shifnamk/Real-Time-AI-Avatar/blob/master/Avatar.mp4)**
+<video width="100%" controls>
+  <source src="https://github.com/shifnamk/Real-Time-AI-Avatar/raw/master/Avatar.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-*Click above to watch the full 51.2 MB high-quality avatar demonstration*
+**🎯 What you'll see:**
+- Real-time lip synchronization with MuseTalk
+- Voice interaction powered by OpenAI Realtime API  
+- Instant response and interruption handling
+- Natural facial expressions and movements
+- High-quality 48kHz audio output
 
-**Alternative Download:** [Direct Download (Right-click → Save As)](https://github.com/shifnamk/Real-Time-AI-Avatar/raw/master/Avatar.mp4)
+**📱 Mobile users:** [Direct download link](https://github.com/shifnamk/Real-Time-AI-Avatar/raw/master/Avatar.mp4)
 
 **Key Features Demonstrated:**
 - ✨ Real-time lip synchronization with MuseTalk
